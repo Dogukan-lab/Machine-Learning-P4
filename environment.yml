@@ -1,4 +1,4 @@
-name: machineLearningP4
+name: mlp4
 channels:
 - defaults
 dependencies:
